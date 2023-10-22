@@ -10,6 +10,8 @@ The resulting system is a ChatGPT-like interface for PDF files. The user can ask
 
 Methods:
 
+![Alt text](URL " ")
+
 The following methods were used to create the ChatGPT-like interface for PDF files:
 
 The text was extracted from the PDF files using PyPDF2.
