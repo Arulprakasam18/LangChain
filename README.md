@@ -10,7 +10,7 @@ The resulting system is a ChatGPT-like interface for PDF files. The user can ask
 
 Methods:
 
-![Alt text](URL " ")
+![Alt text](URL "https://github.com/Arulprakasam18/LangChain/blob/main/flowchart.jpg")
 
 The following methods were used to create the ChatGPT-like interface for PDF files:
 
