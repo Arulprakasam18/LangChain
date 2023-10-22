@@ -1,6 +1,7 @@
 # LangChain
 ChatGPT for YOUR OWN PDF files with LangChain
-Abstract:
+
+# Abstract:
 
 In this project, we demonstrate how to use LangChain to create a ChatGPT-like interface for PDF files. LangChain is a framework for developing applications powered by language models. It allows you to connect your language model APIs to other sources of data, and then it allows the language model to interact with its environment.
 
@@ -8,7 +9,7 @@ In this case, we use LangChain to connect OpenAI's ChatGPT to a corpus of PDF fi
 
 The resulting system is a ChatGPT-like interface for PDF files. The user can ask questions about the contents of the PDF files, and the system will generate answers that are based on the information in the files.
 
-Methods:
+# Methods:
 
 ![Image](https://pic4.zhimg.com/v2-dd70c6ff4f5e02dfc9ab573976c5f29f_r.jpg)
 
@@ -20,7 +21,7 @@ A semantic search engine was created using FAISS.
 A ChatGPT instance was created using OpenAI.
 The semantic search engine was used to find the most relevant chunks of text for each question.
 The relevant chunks of text were passed to ChatGPT, which generated an answer.
-Results:
+# Results:
 
 The resulting system is a ChatGPT-like interface for PDF files. The user can ask questions about the contents of the PDF files, and the system will generate answers that are based on the information in the files.
 
@@ -32,6 +33,6 @@ What was the size of the training dataset?
 What is Google Bard?
 The system would then generate answers to these questions based on the information in the PDF files.
 
-Conclusion:
+# Conclusion:
 
 The ChatGPT-like interface for PDF files is a powerful tool for accessing information in PDF files. The system allows users to ask questions about the contents of PDF files in a natural way, and the system will generate answers that are based on the information in the files.
